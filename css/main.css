@@ -95,12 +95,14 @@ footer {
   clear: both;
   padding-top: 50px;
   color: #ccc;
+  background: black;
 }
 
 .social-icon {
   width: 20px;
   height: 20px;
   margin: 0 5px;
+  border-radius: 50%;
 }
 
 
@@ -191,7 +193,7 @@ body {
 
 /* Fire header */
 header {
-  background: red;
+  background: black;
   border-color: orange;
 }
 
